@@ -65,7 +65,7 @@
     <preference name="SplashScreenDelay" value="5000" />-->
 
     <!-- No need to edit below this line -->
-    <!-- <gap:splash src="splash.png"/>-->
+     <splash src="splash.png"/>
 
 <platform name="ios">
     <icon src="www/res/icon/ios/icon.png" platform="ios" width="57" height="57"/>
