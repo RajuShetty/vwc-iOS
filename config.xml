@@ -45,7 +45,7 @@
    
    
    
-<!--    <gap:plugin name="cordova-plugin-splashscreen" source="npm" spec="3.2.2" />-->
+ <plugin name="cordova-plugin-splashscreen" />
 
     <platform name="ios">
         <gap:plugin name="ionic-plugin-keyboard" source="npm" spec="2.2.1" />
@@ -84,6 +84,7 @@
     <icon src="www/res/icon/ios/icon-small.png" platform="ios" width="29" height="29"/>
     <icon src="www/res/icon/ios/icon-small@2x.png" platform="ios" width="58" height="58"/>
     <icon src="www/res/icon/ios/icon-small@3x.png" platform="ios" width="87" height="87"/>
+
     <!--splash src="www/res/screen/ios/Default-568h@2x~iphone.png" platform="ios" width="640" height="1136"/>
     <splash src="www/res/screen/ios/Default-667h.png" platform="ios" width="750" height="1334"/>
     <splash src="www/res/screen/ios/Default-736h.png" platform="ios" width="1242" height="2208"/>
