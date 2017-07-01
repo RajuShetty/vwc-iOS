@@ -55,6 +55,7 @@
  <!-- <gap:plugin name="cordova-plugin-crosswalk-webview" source="npm" version="1.8.0" /> -->
 
     <!-- to show app faster, set autohide to true. iOS only --> 
+	 <preference name="show-splash-screen-spinner" value="true"/>
     <preference name="AutoHideSplashScreen" value="true" />
     <preference name="StatusBarOverlaysWebView" value="false" />
     <preference name="webviewbounce" value="false" />
